@@ -1,5 +1,5 @@
 # NASA_API
-Displays the NASA Photo of the day for a selected date
+Displays the NASA Photo of the day for a selected date.
 
 <a href="https://nasa-api-1yt5.onrender.com/">Try it here: https://nasa-api-1yt5.onrender.com/</a>
 
